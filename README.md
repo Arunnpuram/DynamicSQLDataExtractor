@@ -52,5 +52,5 @@ Follow the prompts to select a query and enter date ranges.
 
 ## Contact
 
-Your Name - arun.puram@outlook.com>
+My email- arun.puram@outlook.com
 
