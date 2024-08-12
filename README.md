@@ -50,24 +50,6 @@ Run the tool from the command line:
 
 Follow the prompts to select a query and enter date ranges.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) for details.
-
-## Contact
-
-Your Name - your.email@example.com
-
-Project Link: [https://github.com/yourusername/DynamicSQLDataExtractor](https://github.com/yourusername/DynamicSQLDataExtractor)
-
----
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- Credits
-
 ## Contact
 
 Your Name - arun.puram@outlook.com>
